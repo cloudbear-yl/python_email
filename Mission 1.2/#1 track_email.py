@@ -22,7 +22,6 @@ newMessage['To'] = input('Enter reciever email address :')  #Defining reciever e
 html = """\
     <html>
     <body>
-    Using Aruna's code
       <p>
        <img src="(input own personal pastepixel URL)" alt=""/>
       </p>
